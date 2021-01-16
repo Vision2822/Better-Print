@@ -4,5 +4,5 @@ Better-Print is an alternative for print and uses more resources than normal pri
 # Usage
 ```python
 import betterprint
-betterprint("Hello World!")
+betterprint.betterprint("Hello World!")
 ```
